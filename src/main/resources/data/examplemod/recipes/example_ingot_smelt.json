@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "examplemod:example_ore"
+  },
+  "result": "examplemod:example_ingot",
+  "experience": 0.7
+}

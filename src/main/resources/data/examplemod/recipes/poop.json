@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "examplemod:poop",
+    "count": 9
+  }
+}

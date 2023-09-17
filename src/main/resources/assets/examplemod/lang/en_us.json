@@ -1,0 +1,7 @@
+{
+    "item.examplemod.poop": "Poop",
+    "block.examplemod.example_block": "Example Block",
+    "block.examplemod.example_ore": "Example Ore",
+    "item.examplemod.example_ingot": "Example Ingot",
+    "itemGroup.example_mod": "Example mod"
+}
