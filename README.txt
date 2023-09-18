@@ -1,7 +1,6 @@
 Hello it's my Frist Minecraft mod
 
 for run the mod you need to have forge 1.16.5 and the version of forge is36.2.33 don't ask why
-to run this mod you need to open cmd and type gradlew runClient
 
 If you want the original example mod from forge you can download from the mdk file and follow there step bellow:
 https://files.minecraftforge.net/net/minecraftforge/forge/
